@@ -1,0 +1,8 @@
+
+# Ignorar Archivos confidenciales
+/*/bin/
+/*/obj/
+
+/config.json
+
+
